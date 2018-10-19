@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="880706a6-dfcf-485d-8e2a-ba947c5e7ce6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-net-3.6-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-net-3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-net-examples-3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/geode-concurrency-test-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.8.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midterm2018/FromToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midterm2018/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midterm2018/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="880706a6-dfcf-485d-8e2a-ba947c5e7ce6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,8 +116,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-533" />
-    <option name="y" value="58" />
+    <option name="x" value="69" />
+    <option name="y" value="56" />
     <option name="width" value="1037" />
     <option name="height" value="745" />
   </component>
@@ -196,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539924062587" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539924380572" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -257,7 +243,7 @@
     <option name="totallyTimeSpent" value="822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-185" y="78" width="1037" height="745" extended-state="0" />
+    <frame x="-533" y="58" width="1037" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3155779" />
